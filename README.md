@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0114-flatten-binary-tree-to-linked-list](https://github.com/ANKURGIT25062006/DSA_SOLUTIONS/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0232-implement-queue-using-stacks](https://github.com/ANKURGIT25062006/DSA_SOLUTIONS/tree/master/0232-implement-queue-using-stacks) |
 ## Design
 |  |
@@ -19,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0102-binary-tree-level-order-traversal](https://github.com/ANKURGIT25062006/DSA_SOLUTIONS/tree/master/0102-binary-tree-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/ANKURGIT25062006/DSA_SOLUTIONS/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/ANKURGIT25062006/DSA_SOLUTIONS/tree/master/0112-path-sum) |
+| [0114-flatten-binary-tree-to-linked-list](https://github.com/ANKURGIT25062006/DSA_SOLUTIONS/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0129-sum-root-to-leaf-numbers](https://github.com/ANKURGIT25062006/DSA_SOLUTIONS/tree/master/0129-sum-root-to-leaf-numbers) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/ANKURGIT25062006/DSA_SOLUTIONS/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/ANKURGIT25062006/DSA_SOLUTIONS/tree/master/0543-diameter-of-binary-tree) |
@@ -36,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0102-binary-tree-level-order-traversal](https://github.com/ANKURGIT25062006/DSA_SOLUTIONS/tree/master/0102-binary-tree-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/ANKURGIT25062006/DSA_SOLUTIONS/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/ANKURGIT25062006/DSA_SOLUTIONS/tree/master/0112-path-sum) |
+| [0114-flatten-binary-tree-to-linked-list](https://github.com/ANKURGIT25062006/DSA_SOLUTIONS/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0129-sum-root-to-leaf-numbers](https://github.com/ANKURGIT25062006/DSA_SOLUTIONS/tree/master/0129-sum-root-to-leaf-numbers) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/ANKURGIT25062006/DSA_SOLUTIONS/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/ANKURGIT25062006/DSA_SOLUTIONS/tree/master/0543-diameter-of-binary-tree) |
@@ -58,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/ANKURGIT25062006/DSA_SOLUTIONS/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/ANKURGIT25062006/DSA_SOLUTIONS/tree/master/0112-path-sum) |
+| [0114-flatten-binary-tree-to-linked-list](https://github.com/ANKURGIT25062006/DSA_SOLUTIONS/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0129-sum-root-to-leaf-numbers](https://github.com/ANKURGIT25062006/DSA_SOLUTIONS/tree/master/0129-sum-root-to-leaf-numbers) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/ANKURGIT25062006/DSA_SOLUTIONS/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/ANKURGIT25062006/DSA_SOLUTIONS/tree/master/0543-diameter-of-binary-tree) |
@@ -115,4 +119,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2029-stone-game-ix](https://github.com/ANKURGIT25062006/DSA_SOLUTIONS/tree/master/2029-stone-game-ix) |
+## Linked List
+|  |
+| ------- |
+| [0114-flatten-binary-tree-to-linked-list](https://github.com/ANKURGIT25062006/DSA_SOLUTIONS/tree/master/0114-flatten-binary-tree-to-linked-list) |
 <!---LeetCode Topics End-->

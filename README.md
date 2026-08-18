@@ -52,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/ANKURGIT25062006/DSA_SOLUTIONS/tree/master/0001-two-sum) |
 | [0169-majority-element](https://github.com/ANKURGIT25062006/DSA_SOLUTIONS/tree/master/0169-majority-element) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/ANKURGIT25062006/DSA_SOLUTIONS/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/ANKURGIT25062006/DSA_SOLUTIONS/tree/master/3090-maximum-length-substring-with-two-occurrences) |
@@ -90,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/ANKURGIT25062006/DSA_SOLUTIONS/tree/master/0001-two-sum) |
 | [0169-majority-element](https://github.com/ANKURGIT25062006/DSA_SOLUTIONS/tree/master/0169-majority-element) |
 | [2029-stone-game-ix](https://github.com/ANKURGIT25062006/DSA_SOLUTIONS/tree/master/2029-stone-game-ix) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/ANKURGIT25062006/DSA_SOLUTIONS/tree/master/3471-find-the-largest-almost-missing-integer) |

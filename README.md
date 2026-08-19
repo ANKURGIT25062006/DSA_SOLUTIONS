@@ -93,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/ANKURGIT25062006/DSA_SOLUTIONS/tree/master/0001-two-sum) |
+| [0075-sort-colors](https://github.com/ANKURGIT25062006/DSA_SOLUTIONS/tree/master/0075-sort-colors) |
 | [0169-majority-element](https://github.com/ANKURGIT25062006/DSA_SOLUTIONS/tree/master/0169-majority-element) |
 | [1386-cinema-seat-allocation](https://github.com/ANKURGIT25062006/DSA_SOLUTIONS/tree/master/1386-cinema-seat-allocation) |
 | [2029-stone-game-ix](https://github.com/ANKURGIT25062006/DSA_SOLUTIONS/tree/master/2029-stone-game-ix) |
@@ -106,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0075-sort-colors](https://github.com/ANKURGIT25062006/DSA_SOLUTIONS/tree/master/0075-sort-colors) |
 | [0169-majority-element](https://github.com/ANKURGIT25062006/DSA_SOLUTIONS/tree/master/0169-majority-element) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/ANKURGIT25062006/DSA_SOLUTIONS/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 ## Math
@@ -150,4 +152,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/ANKURGIT25062006/DSA_SOLUTIONS/tree/master/0169-majority-element) |
+## Two Pointers
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/ANKURGIT25062006/DSA_SOLUTIONS/tree/master/0075-sort-colors) |
+## Quicksort
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/ANKURGIT25062006/DSA_SOLUTIONS/tree/master/0075-sort-colors) |
+## Bubble Sort
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/ANKURGIT25062006/DSA_SOLUTIONS/tree/master/0075-sort-colors) |
 <!---LeetCode Topics End-->

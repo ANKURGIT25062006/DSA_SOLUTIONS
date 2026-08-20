@@ -102,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/ANKURGIT25062006/DSA_SOLUTIONS/tree/master/0169-majority-element) |
 | [1386-cinema-seat-allocation](https://github.com/ANKURGIT25062006/DSA_SOLUTIONS/tree/master/1386-cinema-seat-allocation) |
 | [2029-stone-game-ix](https://github.com/ANKURGIT25062006/DSA_SOLUTIONS/tree/master/2029-stone-game-ix) |
+| [3069-distribute-elements-into-two-arrays-i](https://github.com/ANKURGIT25062006/DSA_SOLUTIONS/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/ANKURGIT25062006/DSA_SOLUTIONS/tree/master/3471-find-the-largest-almost-missing-integer) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/ANKURGIT25062006/DSA_SOLUTIONS/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 ## Bit Manipulation
@@ -173,4 +174,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/ANKURGIT25062006/DSA_SOLUTIONS/tree/master/0128-longest-consecutive-sequence) |
+## Simulation
+|  |
+| ------- |
+| [3069-distribute-elements-into-two-arrays-i](https://github.com/ANKURGIT25062006/DSA_SOLUTIONS/tree/master/3069-distribute-elements-into-two-arrays-i) |
 <!---LeetCode Topics End-->

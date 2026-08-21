@@ -193,4 +193,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/ANKURGIT25062006/DSA_SOLUTIONS/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
+## Database
+|  |
+| ------- |
+| [1407-top-travellers](https://github.com/ANKURGIT25062006/DSA_SOLUTIONS/tree/master/1407-top-travellers) |
 <!---LeetCode Topics End-->

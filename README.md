@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0110-balanced-binary-tree](https://github.com/ANKURGIT25062006/DSA_SOLUTIONS/tree/master/0110-balanced-binary-tree) |
 | [0112-path-sum](https://github.com/ANKURGIT25062006/DSA_SOLUTIONS/tree/master/0112-path-sum) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/ANKURGIT25062006/DSA_SOLUTIONS/tree/master/0114-flatten-binary-tree-to-linked-list) |
+| [0124-binary-tree-maximum-path-sum](https://github.com/ANKURGIT25062006/DSA_SOLUTIONS/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0129-sum-root-to-leaf-numbers](https://github.com/ANKURGIT25062006/DSA_SOLUTIONS/tree/master/0129-sum-root-to-leaf-numbers) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/ANKURGIT25062006/DSA_SOLUTIONS/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/ANKURGIT25062006/DSA_SOLUTIONS/tree/master/0543-diameter-of-binary-tree) |
@@ -50,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0110-balanced-binary-tree](https://github.com/ANKURGIT25062006/DSA_SOLUTIONS/tree/master/0110-balanced-binary-tree) |
 | [0112-path-sum](https://github.com/ANKURGIT25062006/DSA_SOLUTIONS/tree/master/0112-path-sum) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/ANKURGIT25062006/DSA_SOLUTIONS/tree/master/0114-flatten-binary-tree-to-linked-list) |
+| [0124-binary-tree-maximum-path-sum](https://github.com/ANKURGIT25062006/DSA_SOLUTIONS/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0129-sum-root-to-leaf-numbers](https://github.com/ANKURGIT25062006/DSA_SOLUTIONS/tree/master/0129-sum-root-to-leaf-numbers) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/ANKURGIT25062006/DSA_SOLUTIONS/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/ANKURGIT25062006/DSA_SOLUTIONS/tree/master/0543-diameter-of-binary-tree) |
@@ -83,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0110-balanced-binary-tree](https://github.com/ANKURGIT25062006/DSA_SOLUTIONS/tree/master/0110-balanced-binary-tree) |
 | [0112-path-sum](https://github.com/ANKURGIT25062006/DSA_SOLUTIONS/tree/master/0112-path-sum) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/ANKURGIT25062006/DSA_SOLUTIONS/tree/master/0114-flatten-binary-tree-to-linked-list) |
+| [0124-binary-tree-maximum-path-sum](https://github.com/ANKURGIT25062006/DSA_SOLUTIONS/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0129-sum-root-to-leaf-numbers](https://github.com/ANKURGIT25062006/DSA_SOLUTIONS/tree/master/0129-sum-root-to-leaf-numbers) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/ANKURGIT25062006/DSA_SOLUTIONS/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/ANKURGIT25062006/DSA_SOLUTIONS/tree/master/0543-diameter-of-binary-tree) |
@@ -98,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## DP on Trees
 |  |
 | ------- |
+| [0124-binary-tree-maximum-path-sum](https://github.com/ANKURGIT25062006/DSA_SOLUTIONS/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0543-diameter-of-binary-tree](https://github.com/ANKURGIT25062006/DSA_SOLUTIONS/tree/master/0543-diameter-of-binary-tree) |
 ## Array
 |  |
@@ -215,6 +219,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0124-binary-tree-maximum-path-sum](https://github.com/ANKURGIT25062006/DSA_SOLUTIONS/tree/master/0124-binary-tree-maximum-path-sum) |
 | [1872-stone-game-viii](https://github.com/ANKURGIT25062006/DSA_SOLUTIONS/tree/master/1872-stone-game-viii) |
 ## Prefix Sum
 |  |

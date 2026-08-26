@@ -80,10 +80,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1927-sum-game](https://github.com/ANKURGIT25062006/DSA_SOLUTIONS/tree/master/1927-sum-game) |
+| [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/ANKURGIT25062006/DSA_SOLUTIONS/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/ANKURGIT25062006/DSA_SOLUTIONS/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 ## Sliding Window
 |  |
 | ------- |
+| [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/ANKURGIT25062006/DSA_SOLUTIONS/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/ANKURGIT25062006/DSA_SOLUTIONS/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 ## Depth-First Search
 |  |

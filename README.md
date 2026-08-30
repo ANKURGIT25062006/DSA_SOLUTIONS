@@ -246,6 +246,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0584-find-customer-referee](https://github.com/ANKURGIT25062006/DSA_SOLUTIONS/tree/master/0584-find-customer-referee) |
 | [0595-big-countries](https://github.com/ANKURGIT25062006/DSA_SOLUTIONS/tree/master/0595-big-countries) |
 | [1148-article-views-i](https://github.com/ANKURGIT25062006/DSA_SOLUTIONS/tree/master/1148-article-views-i) |
+| [1193-monthly-transactions-i](https://github.com/ANKURGIT25062006/DSA_SOLUTIONS/tree/master/1193-monthly-transactions-i) |
 | [1211-queries-quality-and-percentage](https://github.com/ANKURGIT25062006/DSA_SOLUTIONS/tree/master/1211-queries-quality-and-percentage) |
 | [1251-average-selling-price](https://github.com/ANKURGIT25062006/DSA_SOLUTIONS/tree/master/1251-average-selling-price) |
 | [1280-students-and-examinations](https://github.com/ANKURGIT25062006/DSA_SOLUTIONS/tree/master/1280-students-and-examinations) |

@@ -137,6 +137,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0128-longest-consecutive-sequence](https://github.com/ANKURGIT25062006/DSA_SOLUTIONS/tree/master/0128-longest-consecutive-sequence) |
 | [0169-majority-element](https://github.com/ANKURGIT25062006/DSA_SOLUTIONS/tree/master/0169-majority-element) |
 | [1386-cinema-seat-allocation](https://github.com/ANKURGIT25062006/DSA_SOLUTIONS/tree/master/1386-cinema-seat-allocation) |
+| [1431-kids-with-the-greatest-number-of-candies](https://github.com/ANKURGIT25062006/DSA_SOLUTIONS/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 | [1872-stone-game-viii](https://github.com/ANKURGIT25062006/DSA_SOLUTIONS/tree/master/1872-stone-game-viii) |
 | [2029-stone-game-ix](https://github.com/ANKURGIT25062006/DSA_SOLUTIONS/tree/master/2029-stone-game-ix) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/ANKURGIT25062006/DSA_SOLUTIONS/tree/master/3069-distribute-elements-into-two-arrays-i) |

@@ -89,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [1768-merge-strings-alternately](https://github.com/ANKURGIT25062006/DSA_SOLUTIONS/tree/master/1768-merge-strings-alternately) |
 | [1927-sum-game](https://github.com/ANKURGIT25062006/DSA_SOLUTIONS/tree/master/1927-sum-game) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/ANKURGIT25062006/DSA_SOLUTIONS/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/ANKURGIT25062006/DSA_SOLUTIONS/tree/master/3090-maximum-length-substring-with-two-occurrences) |
@@ -209,6 +210,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/ANKURGIT25062006/DSA_SOLUTIONS/tree/master/0075-sort-colors) |
+| [1768-merge-strings-alternately](https://github.com/ANKURGIT25062006/DSA_SOLUTIONS/tree/master/1768-merge-strings-alternately) |
 ## Quicksort
 |  |
 | ------- |

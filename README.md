@@ -136,6 +136,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/ANKURGIT25062006/DSA_SOLUTIONS/tree/master/0075-sort-colors) |
 | [0128-longest-consecutive-sequence](https://github.com/ANKURGIT25062006/DSA_SOLUTIONS/tree/master/0128-longest-consecutive-sequence) |
 | [0169-majority-element](https://github.com/ANKURGIT25062006/DSA_SOLUTIONS/tree/master/0169-majority-element) |
+| [0605-can-place-flowers](https://github.com/ANKURGIT25062006/DSA_SOLUTIONS/tree/master/0605-can-place-flowers) |
 | [1386-cinema-seat-allocation](https://github.com/ANKURGIT25062006/DSA_SOLUTIONS/tree/master/1386-cinema-seat-allocation) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/ANKURGIT25062006/DSA_SOLUTIONS/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 | [1872-stone-game-viii](https://github.com/ANKURGIT25062006/DSA_SOLUTIONS/tree/master/1872-stone-game-viii) |
@@ -167,6 +168,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0605-can-place-flowers](https://github.com/ANKURGIT25062006/DSA_SOLUTIONS/tree/master/0605-can-place-flowers) |
 | [1386-cinema-seat-allocation](https://github.com/ANKURGIT25062006/DSA_SOLUTIONS/tree/master/1386-cinema-seat-allocation) |
 | [1927-sum-game](https://github.com/ANKURGIT25062006/DSA_SOLUTIONS/tree/master/1927-sum-game) |
 | [2029-stone-game-ix](https://github.com/ANKURGIT25062006/DSA_SOLUTIONS/tree/master/2029-stone-game-ix) |

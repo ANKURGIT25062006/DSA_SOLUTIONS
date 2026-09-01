@@ -139,6 +139,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0128-longest-consecutive-sequence](https://github.com/ANKURGIT25062006/DSA_SOLUTIONS/tree/master/0128-longest-consecutive-sequence) |
 | [0169-majority-element](https://github.com/ANKURGIT25062006/DSA_SOLUTIONS/tree/master/0169-majority-element) |
 | [0605-can-place-flowers](https://github.com/ANKURGIT25062006/DSA_SOLUTIONS/tree/master/0605-can-place-flowers) |
+| [0977-squares-of-a-sorted-array](https://github.com/ANKURGIT25062006/DSA_SOLUTIONS/tree/master/0977-squares-of-a-sorted-array) |
 | [1386-cinema-seat-allocation](https://github.com/ANKURGIT25062006/DSA_SOLUTIONS/tree/master/1386-cinema-seat-allocation) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/ANKURGIT25062006/DSA_SOLUTIONS/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 | [1872-stone-game-viii](https://github.com/ANKURGIT25062006/DSA_SOLUTIONS/tree/master/1872-stone-game-viii) |
@@ -159,6 +160,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0075-sort-colors](https://github.com/ANKURGIT25062006/DSA_SOLUTIONS/tree/master/0075-sort-colors) |
 | [0169-majority-element](https://github.com/ANKURGIT25062006/DSA_SOLUTIONS/tree/master/0169-majority-element) |
+| [0977-squares-of-a-sorted-array](https://github.com/ANKURGIT25062006/DSA_SOLUTIONS/tree/master/0977-squares-of-a-sorted-array) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/ANKURGIT25062006/DSA_SOLUTIONS/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 ## Math
 |  |
@@ -217,6 +219,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/ANKURGIT25062006/DSA_SOLUTIONS/tree/master/0075-sort-colors) |
 | [0125-valid-palindrome](https://github.com/ANKURGIT25062006/DSA_SOLUTIONS/tree/master/0125-valid-palindrome) |
 | [0345-reverse-vowels-of-a-string](https://github.com/ANKURGIT25062006/DSA_SOLUTIONS/tree/master/0345-reverse-vowels-of-a-string) |
+| [0977-squares-of-a-sorted-array](https://github.com/ANKURGIT25062006/DSA_SOLUTIONS/tree/master/0977-squares-of-a-sorted-array) |
 | [1768-merge-strings-alternately](https://github.com/ANKURGIT25062006/DSA_SOLUTIONS/tree/master/1768-merge-strings-alternately) |
 ## Quicksort
 |  |
